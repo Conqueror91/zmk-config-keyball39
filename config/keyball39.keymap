@@ -108,7 +108,7 @@
             label = "MOUSE";
             bindings = <
 &kp K_PREVIOUS  &kp K_FORWARD  &kp K_STOP  &kp K_PLAY_PAUSE  &kp K_VOL_UP                       &kp K_PASTE  &kp PRINTSCREEN  &bt BT_PRV    &bt BT_NXT      &bt BT_CLR
-&kp LGUI        &kp LALT       &kp LCTRL   &kp LSHFT         &kt K_VOLUME_DOWN                  &kp K_COPY   &mkp LCLK        &mkp MCLK     &mkp RCLK       &tog 5
+&kp LGUI        &kp LALT       &kp LCTRL   &kp LSHFT         &kt K_VOLUME_DOWN                  &kp K_COPY   &mkp LCLK        &mkp MCLK     &mkp RCLK       &mo 5
 &kp LEFT        &kp UP         &kp DOWN    &kp RIGHT         &kt K_MUTE                         &kp K_CUT    &mmv MOVE_LEFT   &mmv MOVE_UP  &mmv MOVE_DOWN  &mmv MOVE_RIGHT
 &trans          &trans         &trans      &trans            &trans             &trans  &trans  &trans                                                      &trans
             >;
